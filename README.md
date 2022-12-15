@@ -19,4 +19,5 @@ npm start - runs app
 
 
 <h1>Preview</h1>
-![image](https://user-images.githubusercontent.com/98666468/207746802-478ab8bc-ac8b-4315-b69e-6fa494f5494e.png)
+![image](https://user-images.githubusercontent.com/98666468/207746832-9bc6cf3b-0eeb-4a42-89dc-670682abcd58.png)
+
