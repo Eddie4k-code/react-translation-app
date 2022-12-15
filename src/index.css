@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    
 }
 
 #box-res {
@@ -15,4 +16,16 @@ body {
 #search-res:hover{
     background-color: deepskyblue;
     cursor: pointer;
+}
+
+
+#t-btn {
+    position: center;
+}
+
+#to-box {
+    height: 14rem;
+    width: 100%;
+    resize: vertical;
+    flex-direction: column;
 }
