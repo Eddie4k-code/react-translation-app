@@ -1,5 +1,8 @@
 # react-translation-app
 React application that uses a translate API to translate input to another language!
+
+<h1>View Live</h1>
+https://react-translator.onrender.com/
 <h1>API</h1>
 <li>https://rapidapi.com/googlecloud/api/google-translate1/</li>
 
